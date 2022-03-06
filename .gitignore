@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# custom ignores
+CSSets/
+CSLinqDemo/
+CSharpCourse/
+CSFirst/
+CSDictionary/
